@@ -1,0 +1,5 @@
+outs:
+- md5: 844310b8b67ea5638b9eeab57809094e.dir
+  size: 2933
+  nfiles: 1
+  path: predictionHousesModel
